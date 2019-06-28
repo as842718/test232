@@ -1,0 +1,10 @@
+Hi Jayant,
+
+After getting training in performance testing tool like Jmeter, loadRunner. I’m come up with some idea which we can implement across performance testing project.
+
+As we know loadrunner is paid tool So we have some good feature like LoadRunner Analysis and Monitoring. 
+
+
+Problem statement 
+
+We have to run Jmeter in non GUI mode to get efficient results. But at that time we can’t analysis performance graph(like -) in real time we have wait for execution to complete and then go for analysis.
